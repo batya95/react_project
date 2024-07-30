@@ -27,5 +27,4 @@ This React-based application is designed to manage a copywriting office, providi
 - View and manage personal appointment history
 - Access information about available copywriting services
 
-## Technologies
 
