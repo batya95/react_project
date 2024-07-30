@@ -23,7 +23,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: ':addService',
-        element: <ToAdd />,
+        element: <ToAdd />
       },
       {
         path: ':meeting',

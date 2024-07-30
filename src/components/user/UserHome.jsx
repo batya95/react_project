@@ -5,8 +5,8 @@ function UserHome() {
 
     return (
         <>
-            < BusinessData />
-            <ServiceList />
+        < BusinessData />
+        <ServiceList />
         </>
     )
 }
